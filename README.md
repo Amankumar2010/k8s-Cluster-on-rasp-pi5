@@ -10,7 +10,7 @@ Tutorial on how to set up a multi-node Kubernetes cluster on **Raspberry Pi 5** 
 - 🖥️ 1 x Raspberry Pi 5 (Master) – 4GB minimum
 - 🖥️ 1 x Raspberry Pi 5 (Worker) – 4GB minimum
 - 💾 MicroSD cards or NVMe drives
-- 🎚️ Nvme Hats if using nvmi drives
+- 🎚️ Nvme Hats if using nvme drives
 - 🔥 A heatsink for your Pi's
 - 🔌 Power supplies
 - 🌐 (Optional) Network switch
