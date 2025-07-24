@@ -231,32 +231,9 @@ Your Raspberry Pi Kubernetes cluster is now fully functional!
 - [Project Calico](https://projectcalico.docs.tigera.io/)
 
 
-
-
-
 ASCII Diagram
-              +-----------------------------+
-              |     Your Home Network       |
-              |     (192.168.1.0/24)        |
-              +-----------------------------+
-                           |
-                           |
-                    +-------------+
-                    | Router / WiFi|
-                    +-------------+
-                           |
-            +-----------------------------+
-            |                             |
-  +-------------------+        +-------------------+
-  | Raspberry Pi 4 #1 |        | Raspberry Pi 4 #2 |
-  |  (Master Node)    |        |  (Worker Node)    |
-  |  192.168.1.10     |        |  192.168.1.11     |
-  +-------------------+        +-------------------+
-            |                             |
-            +-------- Kubernetes Cluster --------+
-                           |  
-               +-----------------------------+
-               |   Deployed Nginx Service    |
-               |   Exposed via NodePort or   |
-               |   Nginx Reverse Proxy       |
-               +-----------------------------+
+
+
+<img width="1024" height="1536" alt="ascii" src="https://github.com/user-attachments/assets/2ab08f99-c910-447f-a02e-4832542bdf89" />
+
+
