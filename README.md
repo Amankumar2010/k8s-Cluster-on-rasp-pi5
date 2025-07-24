@@ -217,6 +217,7 @@ Access the NGINX app via:
 ```
 http://192.168.1.xx:<NodePort>
 ```
+<img width="1496" height="546" alt="image" src="https://github.com/user-attachments/assets/7993d1f4-e149-4ee8-ab59-c8b3c6714f62" />
 
 ---
 
