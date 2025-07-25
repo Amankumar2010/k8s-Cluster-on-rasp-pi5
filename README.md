@@ -1,7 +1,7 @@
 
 # 🧵 k8s-Cluster-on-rasp-pi5
 
-Tutorial on how to set up a multi-node Kubernetes cluster on **Raspberry Pi 5** from scratch running Ubuntu server LTS via headless SSH setup.
+Tutorial on how to set up a multi-node Kubernetes cluster on **Raspberry Pi 5** from scratch running Ubuntu server 24 LTS via headless SSH setup.
 
 ---
 
